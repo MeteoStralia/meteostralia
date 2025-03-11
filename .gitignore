@@ -19,4 +19,4 @@ modeling_results
 src/analyse_series_temp.py
 src/tests
 
-requirements.txt
+# requirements.txt
